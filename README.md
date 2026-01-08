@@ -206,6 +206,7 @@ vehicle-image-classifier/
 ├── app.py
 ├── vehicle_efficientnet_best.keras
 ├── requirements.txt
+├── Vehicle_Classification_Notebook.ipynb
 ├── README.md
 └── .gitignore
 ```
